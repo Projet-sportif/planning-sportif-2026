@@ -1,5 +1,5 @@
 /* Configuration : remplace les deux valeurs ci-dessous par celles de Supabase. */
-const SUPABASE_URL = 'https://cfepzckxjeuifkcnigmg.supabase.co/rest/v1/';
+const SUPABASE_URL = 'https://cfepzckxjeuifkcnigmg.supabase.co';
 const SUPABASE_ANON_KEY = 'sb_publishable_LlmFLGs6hwcz7VSC6IBHVg_J1trgf3t';
 const names=['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'];
 const members=['Julien','Stéphanie','François','Bérénice','Jérôme','Annabelle'];
