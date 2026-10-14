@@ -1,6 +1,6 @@
 /* Configuration : remplace les deux valeurs ci-dessous par celles de Supabase. */
-const SUPABASE_URL = https://cfepzckxjeuifkcnigmg.supabase.co/rest/v1/;
-const SUPABASE_ANON_KEY = sb_publishable_LlmFLGs6hwcz7VSC6IBHVg_J1trgf3t;
+const SUPABASE_URL = 'https://cfepzckxjeuifkcnigmg.supabase.co/rest/v1/';
+const SUPABASE_ANON_KEY = 'sb_publishable_LlmFLGs6hwcz7VSC6IBHVg_J1trgf3t';
 const names=['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'];
 const members=['Julien','Stéphanie','François','Bérénice','Jérôme','Annabelle'];
 const holidays={'2026-01-01':'Jour de l’An','2026-04-06':'Lundi de Pâques','2026-05-01':'Fête du Travail','2026-05-08':'Victoire 1945','2026-05-14':'Ascension','2026-05-25':'Lundi de Pentecôte','2026-07-14':'Fête nationale','2026-08-15':'Assomption','2026-11-01':'Toussaint','2026-11-11':'Armistice','2026-12-25':'Noël'};
